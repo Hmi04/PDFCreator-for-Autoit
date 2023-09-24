@@ -1,0 +1,38 @@
+¿0¿INVOICE: I0000027¿410
+pagetemplate:pdfchunk5:pdfchunk6
+Customer:¿4¿Created by: Admin¿270
+Bright Idea Software Ltd.¿4¿Email:      admin@system.com¿270
+200 Wrong Way Blvd.¿4¿Phone:      none¿270
+Detroit, MI, 48174¿4¿Date: 2023-09-16 08:04¿270
+US¿4¿¿270
+
+Contact:¿4¿Site: ¿270
+Fame Fortune¿4¿¿270
+ff@fotomarket.com¿4¿¿270
+444-666-6666¿4¿¿270
+¿4¿¿270
+
+
+REASON FOR INVOICE: ¿0
+
+
+10022-51 Emergency foooo 2022-03-21 01:32-02:38
+Admin 1.1h @$2.00/hr  1.4h @$3.00/hr $6.40
+10022-52 Emergency foooo 2023-01-01 09:00-13:00
+Admin 4h @$2.00/hr  6h @$3.00/hr $26.00
+10022-50 Emergency foooo 2033-03-53 01:00-02:12
+Admin 1.2h @$2.00/hr  1.25h @$3.00/hr $6.15
+
+10025-54 Scheduled skdk 2023-01-01 09:00-10:00
+Admin 1h @$2.00/hr  1h @$3.00/hr $5.00
+Subtotal:¿140R¿$43.55¿140R
+Sales Tax 6.0%:¿140R¿$2.61¿140R
+Total Due:¿140R¿$46.16¿140R
+hjjhkjhhk Subtotal:¿140R¿$43.55¿140R¿dsfsdfdsfdsfdsfds¿40
+Sales Tax 6.0%:¿140R¿$2.61¿140R¿dsfsdgggggggdsfds¿40
+kjkljlk kljkjl Total Due:¿140R¿$46.16¿140R¿342432432432423¿40
+
+
+Notes: Based on Quote: Q0000025
+
+
